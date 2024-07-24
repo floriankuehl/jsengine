@@ -4,6 +4,7 @@
 <ul>
   <li>Scene and SceneObject for easy managing</li>
   <li>Interaction with SceneObjects</li>
+  <li>Screen-buffering</li>
   <li>Primitive shape handling for Point, Rectangle, Circle and Ellipse</li>
   <li>Collision-layering for efficient checking</li>
   <li>Action-pipeline for Object-driven actions</li>
